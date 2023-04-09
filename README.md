@@ -9,6 +9,4 @@ UI Sekolah Vokasi Universitas Pakuan Flutter project.
 ![Screenshot 2023-04-09 132341](https://user-images.githubusercontent.com/121241476/230758058-975db724-6638-4c5c-ab5d-45f59b508042.png)
 ![Screenshot 2023-04-09 132328](https://user-images.githubusercontent.com/121241476/230758059-39167d92-4349-40b5-b4c8-cf69acdb5da7.png)
 ![Screenshot 2023-04-09 132316](https://user-images.githubusercontent.com/121241476/230758061-b81aa971-b12a-40a2-8258-9d4f059bc35c.png)
-![Screenshot 2023-04-09 123650](https://user-images.githubusercontent.com/121241476/230758063-ca3f739a-c0bd-41bf-9423-4b17b93be5f9.png)
-![Screenshot 2023-04-09 113930](https://user-images.githubusercontent.com/121241476/230758064-fb3b1c25-61a3-4ec0-b0d2-20e5c781c77d.png)
-![Screenshot 2023-04-09 111606](https://user-images.githubusercontent.com/121241476/230758066-a26d1a08-076f-4ca5-bf4d-72b9d9059f64.png)
+
