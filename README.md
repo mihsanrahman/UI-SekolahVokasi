@@ -1,6 +1,6 @@
-# tugas2_mobpro
+# Tugas 2 Matakuliah Mobile Programming
 
-A new Flutter project.
+A UI Sekolah Vokasi Universitas Pakuan Flutter project.
 
 ## Getting Started
 
